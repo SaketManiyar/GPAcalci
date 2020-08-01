@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPAcalci</string>
+    <string name="reset">RESET</string>
+    <string name="credit">CREDIT</string>
+    <string name="grade">GRADE</string>
+    <string name="result">RESULT</string>
+    <string name="enter_credits">Enter credits</string>
+    <string name="enter_grades">Enter grades</string>
+
+</resources>
